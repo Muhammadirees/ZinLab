@@ -15,6 +15,12 @@ This task is developed in React using Create-React-tool because of the following
 Based on the given data or description of the task, it did not specify anything about responsiveness, animation, routing etc.
 I followed the "KISS" principle "Keep it Simple Stupid"
 
+# Hours it took
+
+All the Code is custom code, the only third-party-library is react-icons for Icon and logos.
+
+1. It took Less then 20 hours to complete
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
