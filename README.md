@@ -12,7 +12,7 @@ This task is developed in React using Create-React-tool because of the following
 
 # Completness
 
-Based on the given data or description of the task, it did not specify anything about responsiveness, animation, routing etc
+Based on the given data or description of the task, it did not specify anything about responsiveness, animation, routing etc.
 I followed the "KISS" principle "Keep it Simple Stupid"
 
 # Getting Started with Create React App
