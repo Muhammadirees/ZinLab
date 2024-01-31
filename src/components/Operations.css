@@ -1,0 +1,80 @@
+.operation-section {
+  margin: 2rem 2rem;
+}
+.operation-header {
+  display: flex;
+  justify-content: space-between;
+  margin: 3rem 1rem;
+}
+.operation-header button {
+  padding: 1rem 1.5rem;
+  font-size: 1.4rem;
+  border-radius: 2rem;
+  font-weight: 500;
+  border: none;
+}
+.operation-items {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  row-gap: 20px;
+}
+.slider-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 100%;
+  margin: auto;
+}
+
+.slider-wrapper {
+  display: flex;
+}
+
+.bookmark {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+.bookmark-show {
+  display: block;
+}
+.bookmark-close {
+  display: none;
+}
+
+.slider-item {
+  position: relative;
+  flex: 0 0 18%;
+  text-align: start;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin: 0 10px;
+  transition: transform 0.8s ease-in-out;
+}
+.slider-container button {
+  cursor: pointer;
+  border: 2px solid #8b8989;
+  padding: 0.8rem 1rem;
+  border-radius: 2rem;
+  background: none;
+}
+#prev-btn {
+  position: absolute;
+  left: -25px;
+}
+#next-btn {
+  position: absolute;
+  right: -15px;
+}
+.slider-container button:hover {
+  border: 2px solid black;
+}
+.slider-item:hover {
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 10px 15px 0px;
+}
