@@ -2,6 +2,19 @@
 
 This task is given by zinlab
 
+# Why Developed in React
+
+This task is developed in React using Create-React-tool because of the following:
+
+1. This project did not need any routing
+2. This project did not need any server-side-rendering
+3. This project did not need search engine optimization
+
+# Completness
+
+Based on the given data or description of the task, it did not specify anything about responsiveness, animation, routing etc
+I followed the "KISS" principle "Keep it Simple Stupid"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
