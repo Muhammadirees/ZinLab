@@ -6,9 +6,9 @@ This task is given by zinlab
 
 This task is developed in React using Create-React-tool because of the following:
 
-1. This project did not need any routing
-2. This project did not need any server-side-rendering
-3. This project did not need search engine optimization
+1. This project descrition did not specify using routing
+2. This project descrition did not specify using server-side-rendering
+3. This project descrition did not specify using search engine optimization
 
 # Completness
 
